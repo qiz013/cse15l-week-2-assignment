@@ -24,6 +24,14 @@ Step4:
 
 Step5:
 
+![image](screenshot5.png)
+- use command "ssh-keygen" creates a pair of files called the public key and private key stored in the server and client respectively
 
+![image](screenshot5.png)
+- but I get stuck when copying the public key to my account on the server. How to solve it?
 
 Step6:
+
+![image](screenshot5.png)
+- write a command in quotes at the end of an ssh command to directly run it on the remote server, then exit
+- this should not require password if my problem in Step5 can be solved
