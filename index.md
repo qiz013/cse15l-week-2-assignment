@@ -13,8 +13,8 @@ Step2:
 Step3:
 
 ![image](screenshot3.png)
-- command "ls" lists the contents of the current directory
-- command "ls -lat" lists the contents, including the hidden files in the long format
+- command `ls` lists the contents of the current directory
+- command `ls -lat` lists the contents, including the hidden files in the long format
 
 Step4:
 
